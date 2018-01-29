@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://qdhw.leaderhero.com/new2/20180122/WeiXin_v6.5.22%28os8.0%29_180122093921_app.tongbu.com.ipa</string>
+					<string>https://s.beta.myapp.com/myapp/rdmexp/exp/file/comtencentxinfr2_65832_02ab01eb-cc4b-51a4-89b3-a628ae4ef426.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -25,9 +25,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tencent.xin.ymsoft</string>
+				<string>com.again.free002</string>
 				<key>bundle-version</key>
-				<string>6.5.22</string>
+				<string>6.5.8.32</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
